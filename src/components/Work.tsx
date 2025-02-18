@@ -97,7 +97,7 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     color: 'from-red-600 to-orange-600',
     size: 'medium',
-    link: 'https://v0-hoodie-store-u6nds7.vercel.app/' // 添加連結
+    link: 'https://v0-hoodie-store-yktmsc.vercel.app/' // 添加連結
   }
 ];
 
