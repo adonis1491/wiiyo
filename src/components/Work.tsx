@@ -9,7 +9,7 @@ const projects = [
    image: 'https://blog.sagipl.com/wp-content/uploads/2022/09/web3.0-marketing.jpg',
     color: 'from-purple-600 to-blue-600',
     size: 'medium',
-    link: 'https://v0-marketplace-i6xqt1.vercel.app/' // 確保連結存在
+    link: 'https://kzmr0eggxehmjgtw5lxf.lite.vusercontent.net/' // 確保連結存在
   },
     {
     title: 'Traffic Driven 高流量-全球城市時區',
