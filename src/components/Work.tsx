@@ -40,7 +40,7 @@ const projects = [
     category: 'AI Saas 智能客服, 1對1客服, 多人在現聊天室',
     image: 'https://images.unsplash.com/photo-1556745753-b2904692b3cd?q=80&w=1673&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80',
     color: 'from-cyan-600 to-teal-600',
-    size: 'large',
+    size: 'medium',
     link: 'https://wiiyo.ppap.io/login/' // 添加連結
   },
     {
@@ -98,6 +98,14 @@ const projects = [
     color: 'from-red-600 to-orange-600',
     size: 'medium',
     link: 'https://v0-hoodie-store-yktmsc.vercel.app/' // 添加連結
+  },
+  {
+    title: ' Customizable CRM 顧客資料平台',
+    category: '整合企業數據中台（Data Middleware）顧客資料平台（CDP）, 搭配機器學習，以提升企業的數據運用效能',
+    image: 'https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    color: 'from-red-600 to-orange-600',
+    size: 'medium',
+    link: 'https://bejewelled-cannoli-f709e1.netlify.app/' // 添加連結
   }
 ];
 
