@@ -9,12 +9,19 @@ const textVariants = {
     transition: {
       delay: i * 0.1,
       duration: 0.8,
-      ease: [0.215, 0.610, 0.355, 1.000], // Valid easing curve
+      ease: [0.215, 0.610, 0.355, 1.000],
     },
   }),
 };
 
 export default function Hero() {
+  const scrollToContact = () => {
+    const contactSection = document.getElementById('contact');
+    if (contactSection) {
+      contactSection.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <div className="relative min-h-screen flex items-center overflow-hidden">
       <motion.div 
@@ -68,6 +75,7 @@ export default function Hero() {
             variants={textVariants}
           >
             <motion.button
+              onClick={scrollToContact}
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="group bg-gradient-to-r from-purple-600 via-pink-600 to-red-600 p-[2px] rounded-full"
