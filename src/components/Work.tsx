@@ -65,7 +65,7 @@ const projects = [
     image: 'https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=1536,f=jpeg,q=85/posts/images/684949401679956949/be224285-8e5b-43cd-8835-827465221bcf.png?auto=format&fit=crop&q=80',
     color: 'from-red-600 to-orange-600',
     size: 'large',
-    link: 'https://www.youtube.com/@Rock-1491' // 添加連結
+    link: 'https://www.youtube.com/@LofAI_MUZIC' // 添加連結
   },
   {
     title: 'Online Game H5小遊戲',
