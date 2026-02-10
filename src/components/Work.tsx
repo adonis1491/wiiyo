@@ -59,6 +59,14 @@ const projects = [
     size: 'small',
     link: 'https://fing1111.netlify.app/' // 添加連結
   },
+   {
+    title: 'Graphics Design IP行銷設計',
+    category: 'IP獨特價值建構專屬品牌資產',
+    image: 'https://images.unsplash.com/photo-1739877021409-427c23ad7293?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?auto=format&fit=crop&q=80',
+    color: 'from-red-600 to-orange-600',
+    size: 'large',
+    link: 'https://store.line.me/stickershop/author/5592620/zh-Hant' // 添加連結
+  },
   {
     title: 'Video Generated MV視頻生成',
     category: 'AI Music Video 聲音視覺化, AI視訊剪輯',
